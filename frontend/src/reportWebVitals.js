@@ -1,1 +1,1 @@
-import { reportWebVitals } from 'web-vitals';
+// import reportWebVitals from './reportWebVitals'; // Comment this line
